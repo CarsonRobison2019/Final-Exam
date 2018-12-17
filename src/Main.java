@@ -16,6 +16,7 @@ public class Main {
         System.out.println("how many days are there? (5 max)");
         days = bob.nextDouble();
 
+        
         if (days == 1) {
             System.out.println("how may extra supplies are there? (besides lemons cups sugar) (5 max)");
             suppliesamount = bob.nextDouble();
